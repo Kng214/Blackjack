@@ -1,3 +1,3 @@
 # Blackjack
-Playable Blackjack in terminal
-Some erors with splitting and doubling that needs fixing
+Playable Blackjack in the terminal
+Some errors with splitting and doubling that need fixing
